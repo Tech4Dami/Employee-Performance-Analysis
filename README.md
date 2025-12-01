@@ -2,7 +2,7 @@
 
 ## 1.0 Introduction  
 
-This report is an Exploratory Data Analysis (EDA) of a publicly available employee dataset from the FP20 Analytics Data Challenge Group. The aim of the analysis is to demonstrate learned techniques, describe location, variance, and distribution, and explore covariance and correlation within the dataset. This includes uncovering trends in sales, tenure, employee performance, and store analysis. 
+This report is an Exploratory Data Analysis (EDA) of a publicly available employee dataset from the FP20 Analytics Data Challenge Group. The aim of the analysis is to demonstrate learned techniques, describe location, variance, and distribution, and explore covariance and correlation within the dataset. This includes uncovering trends in sales, tenure, employee performance, and store analysis.
 
 ### 1.1 Data Description 
 
